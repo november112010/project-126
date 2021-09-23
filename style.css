@@ -1,0 +1,43 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;   
+}
+
+.note
+{
+ font-size: 15px;
+ color: aqua;   
+}
+
+body
+{
+  background-size: cover;  
+}
+.div_song_1
+{
+  float: left;  
+}
+.div_song_1_img,.div_song_2_img
+{
+  width: 200px;
+  border-radius: 100px;
+}
+#song_1,#song_2
+{
+  font-size: 23px;
+  margin: 15px;  
+}
+.div_song_2
+{
+  float: right;  
+}
+canvas
+{
+   background-color: white; 
+   border-style: ridge;
+   border-width: 10px;
+   border-color: rgb(94, 66, 253);
+   border-radius: 60px;
+}
